@@ -1,10 +1,6 @@
 
-<div align="center">
-
-### *Hi, I'm **Divya**! 👩‍💻*  
-### *Electronics Engineer 🤖*
-
-</div>
+<h1 align="center">Hi 👋, I'm Divya</h1>
+<h3 align="center">A passionate developer from India 🇮🇳</h3>
 
 
 
