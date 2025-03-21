@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm Divya! 👩‍💻<br>Electronics Engineer🤖
+<p>Hi, I'm <strong>Divya</strong>! 👩‍💻<br><strong>Electronics Engineer</strong> 🤖</p>
+
 
 
 ## 🌐 Socials:
