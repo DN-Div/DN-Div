@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 <div align="center">
 
 ### *Hi, I'm **Divya**! 👩‍💻*  
