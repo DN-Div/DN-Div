@@ -1,5 +1,11 @@
 # 💫 About Me:
-<p>Hi, I'm <strong>Divya</strong>! 👩‍💻<br><strong>Electronics Engineer</strong> 🤖</p>
+<div align="center">
+
+### *Hi, I'm **Divya**! 👩‍💻*  
+### *Electronics Engineer 🤖*
+
+</div>
+
 
 
 
